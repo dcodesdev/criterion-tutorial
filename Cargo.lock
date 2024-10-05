@@ -136,7 +136,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "criterion-test"
+name = "criterion-tutorial"
 version = "0.1.0"
 dependencies = [
  "criterion",
